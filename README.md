@@ -13,19 +13,19 @@
 
 ## Deploy
 * [Firebase Hosting](https://submission-3-32d55.firebaseapp.com)
-* [Github]()
+* [Github](https://ikhsan13.github.io)
 
 ## Screenshots
 
-<img src="https://github.com/muhrahmatullah/Dicoding-Football-Club/blob/master/screenshots/home.png"
+<img src="https://github.com/ikhsan13/ikhsan13.github.io/master/1.gif"
 width="256">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/muhrahmatullah/Dicoding-Football-Club/blob/master/screenshots/search.png"
+<img src="https://github.com/ikhsan13/ikhsan13.github.io/master/2.gif"
 width="256">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/muhrahmatullah/Dicoding-Football-Club/blob/master/screenshots/detail.png"
+<img src="https://github.com/ikhsan13/ikhsan13.github.io/master/3.gif"
 width="256">&nbsp;&nbsp;&nbsp;
 
 ## License
-* [The MIT](https://github.com/ikhsan13/Dicoding-PWA/master/LICENSE)
+* [The MIT](https://github.com/ikhsan13/ikhsan13.github.io/master/LICENSE)
 
 ## Author
 * © 2019 Ikhsan Andriyawan
