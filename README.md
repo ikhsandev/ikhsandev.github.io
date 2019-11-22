@@ -25,7 +25,7 @@ width="256">&nbsp;&nbsp;&nbsp;
 width="256">&nbsp;&nbsp;&nbsp;
 
 ## License
-* [The MIT](https://github.com/ikhsan13/ikhsan13.github.io/master/LICENSE)
+* [The MIT](https://github.com/ikhsan13/ikhsan13.github.io/blob/master/LICENSE)
 
 ## Author
 * © 2019 Ikhsan Andriyawan
