@@ -1,0 +1,24 @@
+{
+  "name": "Sepakbola Liga Inggris",
+  "short_name": "SepakbolaPWA",
+  "description": "Submission 3 Ikhsan Andriyawan",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#82b1ff",
+  "theme_color": "#311b92",
+  "icons": [
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "gcm_sender_id": "579881249574"
+}
+
+
