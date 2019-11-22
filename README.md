@@ -17,11 +17,11 @@
 
 ## Screenshots
 
-<img src="https://github.com/ikhsan13/ikhsan13.github.io/master/1.gif"
+<img src="https://github.com/ikhsan13/ikhsan13.github.io/blob/master/1.gif"
 width="256">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ikhsan13/ikhsan13.github.io/master/2.gif"
+<img src="https://github.com/ikhsan13/ikhsan13.github.io/blob/master/2.gif"
 width="256">&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/ikhsan13/ikhsan13.github.io/master/3.gif"
+<img src="https://github.com/ikhsan13/ikhsan13.github.io/blob/master/3.gif"
 width="256">&nbsp;&nbsp;&nbsp;
 
 ## License
